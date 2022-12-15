@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @likhithaindukuri
 - 👀 I’m interested in 👩‍💻Web development
-- 🌱 I’m currently learning  
+- 🌱 I’m currently learning  ✨
 - 📫 How to reach me likhithaindukuri07@gmail.com
 - ⚡ Fun Fact I think i'm funny enough 😂
 
