@@ -1,4 +1,4 @@
-![logo](https://github.com/likhithaindukuri/likhithaindukuri/blob/main/Linked.jpg)
+![logo]("C:\Users\91630\Desktop\Linked.jpg")
 
 
 <h1 align="center">Hi 👋, I'm 3rd year student pursuing Bachelors in Eluru College of Engineering and Technology</h1>
