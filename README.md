@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhithaindukuri&label=Profile%20views&color=0e75b6&style=flat" alt="likhithaindukuri" /> </p>
 
-- 💬 Ask me about **routemap for WebDevelopment,OpenSourceCommunity**
+- 💬 Ask me about **routemap for WebDevelopment,OpenSourceCommunity,DSA**
 
 - 📫 How to reach me **likhithaindukuri07@gmail.com**
 
