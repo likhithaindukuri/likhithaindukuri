@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hola Amigos👋!! I'm 3rd year student pursuing Bachelors in Eluru College of Engineering and Technology</h1>
-<h3 align="center">A passionate FULL STACK Developer from India</h3>
+<h3 align="center">A passionate FULL STACK Developer from India </h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
