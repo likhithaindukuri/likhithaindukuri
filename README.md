@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **routemap for WebDevelopment,Machine Learning, OpenSourceCommunity,DSA**
 
-- 📫 How to reach me **likhithaindukuri07@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/likhithaindukuri/**
 - Exploring and learning website designing as a front-end developer!!
 
 <h3 align="left">Connect with me: </h3>
