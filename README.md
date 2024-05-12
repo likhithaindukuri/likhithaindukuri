@@ -1,10 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhithaindukuri&label=Profile%20views&color=0e75b6&style=flat" alt="likhithaindukuri" /> </p>
 
-- 💬 Ask me about **routemap for WebDevelopment,Machine Learning, OpenSourceCommunity, DSA**
-
-- Exploring and learning website designing as a front-end developer!!
-
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/likhitha indukuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likhitha indukuri" height="30" width="40" /></a>
