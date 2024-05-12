@@ -1,12 +1,7 @@
-![logo](https://github.com/likhithaindukuri/likhithaindukuri/blob/main/Linked.jpg)
-
-
-<h1 align="center">Hello Amigos👋!! I'm 3rd year student pursuing Bachelors in  Eluru  College of Engineering and Technology</h1>
-<h3 align="center">A passionate FULL STACK Developer from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhithaindukuri&label=Profile%20views&color=0e75b6&style=flat" alt="likhithaindukuri" /> </p>
 
-- 💬 Ask me about **routemap for WebDevelopment,Machine Learning, OpenSourceCommunity,DSA**
+- 💬 Ask me about **routemap for WebDevelopment,Machine Learning, OpenSourceCommunity, DSA**
 
 - Exploring and learning website designing as a front-end developer!!
 
